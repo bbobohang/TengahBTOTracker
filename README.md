@@ -3,7 +3,7 @@
 Telegram channel that sends update when a 5-room unit is being booked for Tengah Garden Waterfront BTO Project 2022. <br>
 Suscribed to channel [here](https://t.me/tengahgwf5)
 
-# Key features:
+# Key features
 * Sends a message to channel when an available unit is booked 
 * Sends a daily update on number of units booked that day
 
