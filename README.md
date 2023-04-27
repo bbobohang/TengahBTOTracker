@@ -1,6 +1,7 @@
 # TengahBTOTracker
 
-Telegram channel that sends update when a 5-room unit is being booked for Tengah Garden Waterfront BTO Project 2022.\n
+Telegram channel that sends update when a 5-room unit is being booked for Tengah Garden Waterfront BTO Project 2022.
+
 Suscribed to channel [here](https://t.me/tengahgwf5)
 
 # Key features:
